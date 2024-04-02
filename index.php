@@ -90,13 +90,14 @@ session_start();
 			<div class="news" Style="float:right;">
 			<marquee behavior="scroll" id="marq"  scrollamount=3 direction="up" height="294px" onmouseover="nestop()" onmouseout="nestrt()">
 				<div>
-				<p><b>There is no proposal to extend to mail/express and superfast trains the flexi-fares currently applicable only to Rajdhani, Shatabdi and Duronto trains,  said Railways Minister Suresh Prabhu.</b></p>
-				</br>
-				<p><b>The Railway ministry has posted the rate list on its Twitter account while asking people to lodge a complaint if they are overcharged.</b></p></br>
-				<p><b>The Comptroller and Auditor General (CAG) has asked the railways to revise passenger fares and curtail concessional passes to recover its operating cost in a phased manner.</b></p></br>
-				<p><b>Railway issues new catering policy for better food.</b></p></br>
-				<p><b>Passengers will now be involved in judging cleanliness level of popular trains including Rajdhani, Shatabdi and Duronto as well as major stations across the country.</b><p></br>
-			
+				
+					<p>Welcome to our Railway Reservation System!</p> <br>
+
+					This academic project features functionalities including "Find Train," "Reservation," and "Profile" options, along with "Login" and "Sign Up" capabilities.
+					<br><br>
+					Please note that the data presented within this system is for academic purposes only and may not reflect accurate real-world information.
+					<br><br>
+					Thank you for choosing our Railway Reservation System. Happy travel!
 				
 				</div>
 			</marquee>
