@@ -92,7 +92,6 @@ $result=mysqli_query($conn,$sql);
 				<a class="brand" href="train.php" >FIND TRAIN</a>
 				<a class="brand" href="reservation.php">RESERVATION</a>
 				<a class="brand" href="profile.php">PROFILE</a>
-				<a class="brand" href="booking.php">BOOKING HISTORY</a>
 				</div>
 			</div>
 		</div>
@@ -185,18 +184,6 @@ $result=mysqli_query($conn,$sql);
 
 			</div>
 		</div>
-			
-		<!-- Copyright -->
-		<footer >
-		<div style="width:100%;">
-			<div style="float:left;">
-			<p class="text-right text-info">  &copy; 2018 Copyright PVT Ltd.</p>	
-			</div>
-			<div style="float:right;">
-			<p class="text-right text-info">	Desinged By : projkectworlds</p>
-			</div>
-		</div>
-		</footer>
 	</div>
 </body>
 </html>	

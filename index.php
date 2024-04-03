@@ -67,26 +67,25 @@ session_start();
 				<a class="brand" href="train.php" >FIND TRAIN</a>
 				<a class="brand" href="reservation.php">RESERVATION</a>
 				<a class="brand" href="profile.php">PROFILE</a>
-				<!-- <a class="brand" href="booking.php">BOOKING HISTORY</a> -->
 				</div>
 			</div>
 		</div>
 		<div class="span12 well">
 			<!-- Photos slider -->
-			<div id="myCarousel" class="carousel slide" style="width:600px; float:left;margin-bottom:3px;">		
+			<div id="myCarousel" class="carousel slide" style="width:950px; float:left;margin-bottom:3px;">		
 				<div class="carousel-inner">
-				<div class="active item"><img src="images/6.jpg" style="width:600px;height:350px;"/></div>
-				<div class="item"><img src="images/7.jpg" style="width:600px;height:350px;"/> </div>
-				<div class="item"><img src="images/8.jpg" style="width:600px;height:350px;"/></div>
-				<div class="item"><img src="images/9.jpg" style="width:600px;height:350px;"/></div>
-				<div class="item"><img src="images/10.jpg" style="width:600px;height:350px;"/> </div>
-				<div class="item"><img src="images/11.png"style="width:600px;height:350px;"/></div>
+				<div class="active item"><img src="images/6.jpg" style="width:950px;height:350px;"/></div>
+				<div class="item"><img src="images/7.jpg" style="width:950px;height:350px;"/> </div>
+				<div class="item"><img src="images/8.jpg" style="width:950px;height:350px;"/></div>
+				<div class="item"><img src="images/9.jpg" style="width:950px;height:350px;"/></div>
+				<div class="item"><img src="images/10.jpg" style="width:950px;height:350px;"/> </div>
+				<div class="item"><img src="images/11.png"style="width:950px;height:350px;"/></div>
 				
 				</div>
 				<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
 				<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-			</div>
-			<!-- News and Alert-->
+			<!-- </div>
+			News and Alert
 			<div class="news" Style="float:right;">
 			<marquee behavior="scroll" id="marq"  scrollamount=3 direction="up" height="294px" onmouseover="nestop()" onmouseout="nestrt()">
 				<div>
@@ -101,20 +100,9 @@ session_start();
 				
 				</div>
 			</marquee>
-			</div>
+			</div> -->
 		</div>
-		
-		<!-- Copyright -->
-<footer >
-		<div style="width:100%;">
-			<div style="float:left;">
-			<!-- <p class="text-right text-info">  &copy; 2018 Copyright PVT Ltd.</p>	 -->
-			</div>
-			<div style="float:right;">
-			<!-- <p class="text-right text-info">	Desinged By : projectworlds</p> -->
-			</div>
 		</div>
-		</footer>	</div>
 	
 </body>
 </html>
